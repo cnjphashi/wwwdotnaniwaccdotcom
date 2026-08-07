@@ -1,8 +1,7 @@
 export const heroSlider = {
   // 轮播图片 URL 数组
   images: [
-    "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1920&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1920&auto=format&fit=crop",
+    "/naniwacc-slider-1.webp",
   ],
   // 自动轮播间隔毫秒数（4000 = 4秒）
   delay: 4000,
