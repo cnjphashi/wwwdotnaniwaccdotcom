@@ -77,7 +77,7 @@ export const relatedLinks = [
   { name: "Hatcatoy", href: "https://www.hatcatoy.com/" },
   { name: "ZAKAKING", href: "https://www.zakaking.com/" },
   { name: "Coulombag", href: "https://coulombag.com/" },
-  { name: "Best-cheng", href: "https://www.best-cheng.com/" },
+  { name: "Best Cheng", href: "https://www.best-cheng.com/" },
 ];
 
 export const features = [
