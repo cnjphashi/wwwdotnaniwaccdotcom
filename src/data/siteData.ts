@@ -259,7 +259,7 @@ export const facilities = [
   {
     title: "シュシュ",
     description: "",
-    image: "https://cnjphashi.com/wp-content/uploads/2026/07/%E5%8F%91%E5%9C%88.webp",
+    image: "https://cnjphashi.com/wp-content/uploads/2026/08/发圈分类.webp",
     link: "https://cnjphashi.com/ja/product-category/akusesarii/shushu/",
   },
   {
@@ -295,7 +295,7 @@ export const facilities = [
   {
     title: "ヘアバンド",
     description: "",
-    image: "https://cnjphashi.com/wp-content/uploads/2026/07/%E5%8F%91%E5%B8%A6.webp",
+    image: "https://cnjphashi.com/wp-content/uploads/2026/08/发带分类.webp",
     link: "https://cnjphashi.com/ja/product-category/akusesarii/hea-bando/",
   },
   {
